@@ -1,3 +1,4 @@
 1. Why have you decided to learn Git and GitHub?
-
+Git and GitHub are very popular version conrol and cloud shared platform,learning it be beneficial
 2. How do you plan to use GitHub in your classroom?
+for academic and research purposr
